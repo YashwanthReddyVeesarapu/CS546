@@ -1,0 +1,15 @@
+{
+  "name": "lab9",
+  "version": "1.0.0",
+  "description": "This is Lab 9 by Yashwanth Reddy Veesarapu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Yashwanth Reddy Veesarapu 20012732",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
